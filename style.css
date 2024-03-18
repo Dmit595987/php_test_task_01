@@ -1,0 +1,23 @@
+.upload-container {
+    text-align: center;
+}
+
+.upload-container input, #uploadBtn {
+    margin: 10px 0;
+}
+
+.upload-container .success {
+    width: 20px;
+    height: 20px;
+    background-color: green;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.upload-container .error {
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    border-radius: 50%;
+    display: inline-block;
+}
